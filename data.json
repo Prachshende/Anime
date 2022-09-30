@@ -13,5 +13,12 @@
        "genre":"[Horror,mystery,psychological]",
        "seasons":2,
        "language":"japanese,english"
+    },
+    {
+      "id":3,
+       "name":"misa amane",
+       "genre":"[mystery,drama]",
+       "seasons":1,
+       "language":"japanese,english"
     }
 ]
