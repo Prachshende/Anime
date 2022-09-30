@@ -8,6 +8,10 @@
     },
 
     {
-
+      "id":2,
+       "name":"Another",
+       "genre":"[Horror,mystery,psychological]",
+       "seasons":2,
+       "language":"japanese,english"
     }
 ]
